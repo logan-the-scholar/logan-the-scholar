@@ -3,6 +3,8 @@ Soy un desarrollador fullstack y Java iniciado, participe de diversos proyectos 
 
 Busco colaborar en areas nuevas o conocidas para experimentar y salir de mi zona de confort, o refinar mis antiguas habilidades...
 
+Contacto:
+[Linkedin](https://www.linkedin.com/in/joshua-franco-92b4a323b/), elvisteck046@gmail.com
 <!---
 logan-the-scholar/logan-the-scholar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
