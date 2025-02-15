@@ -1,11 +1,16 @@
-# 👋 Hola, soy @logan-the-scholar (Joshua)
-Soy un desarrollador fullstack y Java iniciado, participe de diversos proyectos utilizando tecnologias como: TypeScript, Node.js, SQL, React, Docker, Nestjs, PostgreSQL, Java, etc. Ademas de la programacion mis grandes intereses son la literatura fantastica, el arte y los videojuegos (RPG) y algun dia espero utilizar todo esto para crear algo grande.
+# 👋 Hi, I'm Joshua
+I'm a Fullstack Developer focused in Backend and game developer aspirant, taking part in diverse projects with a wide stack of technologies.
+## My main technologies:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="Typescript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJs" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="NextJs" title="NextJs" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSql" title="PostgreSQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySql" title="MySQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJs" title="NodeJs" width="40" height="40"/>
+
+## More about me:
+En construccion 🚧🚧🏗️🚧🚧....
+<!--
+My curiosity and passion for creating small or big things is not meassurable. Although it sounds pretentious
+Ademas de la programacion mis grandes intereses son la literatura fantastica, fantasia epica, ciencia ficcion, el arte clasico y antiguo, y los videojuegos. algun dia espero utilizar todo esto para crear algo grande.
 
 Busco colaborar en areas nuevas o conocidas para experimentar y salir de mi zona de confort, o refinar mis antiguas habilidades...
-
-Contacto:
+-->
+Contact me:
 [Linkedin](https://www.linkedin.com/in/joshua-franco-92b4a323b/), elvisteck046@gmail.com, elvisteck046@outlook.com
-<!---
-logan-the-scholar/logan-the-scholar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
