@@ -7,7 +7,7 @@ I'm a Fullstack Developer focused in Backend and game developer aspirant, taking
 ## More about me:
 En construccion 🚧🚧🏗️🚧🚧....
 <!--
-My curiosity and passion for creating small or big things is not meassurable. Although it sounds pretentious
+My curiosity and passion for creating small or big things is not meassurable. Although it sounds pretentious, i think programming and development its a form of creation more than just a professional career
 Ademas de la programacion mis grandes intereses son la literatura fantastica, fantasia epica, ciencia ficcion, el arte clasico y antiguo, y los videojuegos. algun dia espero utilizar todo esto para crear algo grande.
 
 Busco colaborar en areas nuevas o conocidas para experimentar y salir de mi zona de confort, o refinar mis antiguas habilidades...
